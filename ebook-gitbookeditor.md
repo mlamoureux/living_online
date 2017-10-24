@@ -1,4 +1,4 @@
-eBook - GitBook Editor
+# eBook - GitBook Editor
 
 It seems I used the GitBook Editor to create the eBook Intro.syzygy.ca  Then Ian took my early draft, and added pictures and made it really nice. He may have used Hugo for that \(check\).
 
@@ -10,5 +10,5 @@ Some things I don't like:
 
 MathJax is a piece of software that turns Latex code into properly typeset mathematics. Here is some math $$\int \cos(x) dx = \sin(x)$$
 
-Interesting. I typed that it, and it immediately typeset it as proper mathematics. Sweet. But then when I clicked on "Save" the math went away. WTF??  And when I go away from the page, it all comes back. Weird. 
+Interesting. I typed that it, and it immediately typeset it as proper mathematics. Sweet. But then when I clicked on "Save" the math went away. WTF??  And when I go away from the page, it all comes back. Weird.
 
