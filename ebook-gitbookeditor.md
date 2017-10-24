@@ -10,7 +10,5 @@ Some things I don't like:
 
 MathJax is a piece of software that turns Latex code into properly typeset mathematics. Here is some math $$\int \cos(x) dx = \sin(x)$$
 
-$$\cos(x)$$$$ \int \cos(x) dx = \sin(x) + C$$
-
-Interesting. I typed that it, and it immediately typeset it as proper mathematics. Sweet. But then when I clicked on "Save" the math went away. WTF??
+Interesting. I typed that it, and it immediately typeset it as proper mathematics. Sweet. But then when I clicked on "Save" the math went away. WTF??  And when I go away from the page, it all comes back. Weird. 
 
